@@ -1,6 +1,7 @@
 # Quản Lý Phân Công Công Việc
 
 Dự án **Quản Lý Phân Công Công Việc** được xây dựng bằng PHP. Website cung cấp tiến trình phân công công việc trong công ty với các tính năng thân thiện và dễ sử dụng.
+![My Image](./images/giaodienchinh.png)
 
 ## Chức Năng Chính
 1. **Quản lý nhân viên**:
@@ -26,6 +27,9 @@ Dự án **Quản Lý Phân Công Công Việc** được xây dựng bằng PHP
 5. **Người dùng**:
    - Xem và cật nhật trạng thái công việc
    - Cật nhật thông tin cá nhân
+
+![My Image](./images/tongquan.png)
+![My Image](./images/giaodien.png)
 ---
 
 ## Công Nghệ Sử Dụng
