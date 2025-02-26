@@ -29,7 +29,7 @@ Dự án **Quản Lý Phân Công Công Việc** được xây dựng bằng PHP
    - Cật nhật thông tin cá nhân
 
 ![My Image](./images/tongquan.png)
-![My Image](./images/giaodien.png)
+![My Image](./images/giaoviec.png)
 ---
 
 ## Công Nghệ Sử Dụng
