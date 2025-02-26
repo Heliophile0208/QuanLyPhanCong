@@ -1,29 +1,31 @@
-# Website Thời Trang
+# Quản Lý Phân Công Công Việc
 
-Dự án **Website Thời Trang** được xây dựng bằng PHP. Website cung cấp nền tảng mua sắm trực tuyến với các tính năng thân thiện và dễ sử dụng.
+Dự án **Quản Lý Phân Công Công Việc** được xây dựng bằng PHP. Website cung cấp tiến trình phân công công việc trong công ty với các tính năng thân thiện và dễ sử dụng.
 
 ## Chức Năng Chính
-1. **Quản lý sản phẩm**:
-   - Hiển thị danh sách sản phẩm theo danh mục.
-   - Chi tiết sản phẩm: tên, giá, mô tả, kích thước và hình ảnh.
+1. **Quản lý nhân viên**:
+   - Hiển thị danh sách nhân viên.
+   - Tìm kiếm, thêm, xóa, sửa, cật nhật thông tin
+   - Chi tiết nhân viên:
+   + Thông tin đăng nhập: username, password
+   + Thông tin cá nhân: tên, vị trí, chức vụ, phòng ban,...
 
-2. **Tìm kiếm và lọc sản phẩm**:
-   - Tìm kiếm sản phẩm theo từ khóa.
-   - Lọc sản phẩm theo tên, danh mục hoặc thương hiệu.
+2. **Quản lý thông tin cơ bản của công ty**:
+   - Hiển thị danh sách phòng ban, chức vụ, danh mục.
+   - Tìm kiếm, thêm, xóa, sửa
 
-3. **Giỏ hàng**:
-   - Thêm sản phẩm vào giỏ hàng.
-   - Cập nhật số lượng hoặc xóa sản phẩm trong giỏ.
+3. **Quản lý công việc**:
+   - Giao việc: thêm, xóa, sửa, phân công.
+   - Tính toán tiến độ hoàn thành công việc
 
-4. **Đặt hàng và thanh toán**:
-   - Hỗ trợ đặt hàng.
-   - Lưu thông tin đơn hàng.
+4. **Quản trị viên**:
+   - Quản lý phân công
+   - Quản lý nhân viên
+   - Quản lý thông tin cơ bản công ty
 
-5. **Quản trị viên**:
-   - Quản lý sản phẩm (thêm, sửa, xóa).
-   - Quản lý danh mục sản phẩm.
-   - Xem danh sách đơn hàng và trạng thái.
-
+5. **Người dùng**:
+   - Xem và cật nhật trạng thái công việc
+   - Cật nhật thông tin cá nhân
 ---
 
 ## Công Nghệ Sử Dụng
@@ -33,5 +35,5 @@ Dự án **Website Thời Trang** được xây dựng bằng PHP. Website cung 
 
 ---
 # Chạy website
-**Tải về và giải nén, đổi tên folder dự án thành Webbanhang**
+**Tải về và giải nén - để các tệp, thư mục dự án bên ngoài thư mục gốc của trang web, cật nhật CSDL và mối kết nối**
 
